@@ -12,7 +12,8 @@ B=A-B
 A=A-B
 print('The values of A and B after swapping are')
 print(A)
-print(B)
+print(B) 
+
 #simple  interest 
 print('Simple Interest')
 P=int(input("Enter the value of P ="))
