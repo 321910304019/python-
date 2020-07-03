@@ -1,5 +1,4 @@
-# python-
-Assignment 1
+
 #swapping of two numbers
 print('Swapping of two numbers')
 A=int(input("Enter the value of A ="))
